@@ -1,4 +1,4 @@
-# Analysis of User Sentiment in Tinder Reviews
+# Text Analysis of User Sentiment in Tinder Reviews
 
 This repository contains the code and 2 pages report for text analysis in tinder reviews. The data is obtained from Kaggle: https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-play-store-review/data 
 
